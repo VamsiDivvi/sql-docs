@@ -152,7 +152,7 @@ In this tutorial lesson, you will add grouping and totals to your [!INCLUDE[ssRS
     - `http://<server name>/reports`.  
      - `http://localhost/reports` works if your designing the report on the report server.  
   
-8.  Browse to the folder that contains the report. The default name is *tutorial*, the name of the project or the name you typed into the TargetReportFolder fiedl in the project properties.   
+8.  Browse to the folder that contains the report. The default name is *tutorial*, the name of the project or the name you typed into the TargetReportFolder field in the project properties.   
 Click the name of the report **Sales Orders** to view the rendered report in the browser.  
   
     ![ssrs_tutorial_tutorialfolder](../reporting-services/media/ssrs-tutorial-tutorialfolder.png)  
