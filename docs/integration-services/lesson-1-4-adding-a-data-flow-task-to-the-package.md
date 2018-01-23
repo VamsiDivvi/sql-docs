@@ -31,7 +31,7 @@ After you have created the connection managers for the source and destination da
   
 1.  Click the **Control Flow** tab.  
   
-2.  In the **SSIS Toolbox**, expand **Favorites**, and drag a **Data Flow Task** onto the design surfaceof the **Control Flow** tab.  
+2.  In the **SSIS Toolbox**, expand **Favorites**, and drag a **Data Flow Task** onto the design surface of the **Control Flow** tab.  
   
     > [!NOTE]  
     > If the SSIS Toolbox isn’t available, on the main menu select SSIS then SSIS Toolbox to display the SSIS Toolbox.  
